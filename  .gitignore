@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+venv*/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+.vs/
+
+# Large data folders
+data/
+config/
+*.dll
+*.pyd
+*.so

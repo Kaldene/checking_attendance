@@ -82,7 +82,6 @@ streamlit run app.py
     ├── pages/
     │   ├── __init__.py
     │   ├── add_student_page.py  # Добавление студента
-    │   ├── camera_page.py  # Работа с камерой
     │   ├── recognition_page.py  # Распознавание лиц
     │   └── students_page.py  # Список студентов
     ├── utils/
@@ -133,3 +132,4 @@ git push origin feature/new-feature
 ## 👥 Автор
 
 Kaldene
+
